@@ -1,4 +1,5 @@
 # Sales Prediction using Machine Learning and EDA
+End-to-end data science project for predicting sales using exploratory data analysis and machine learning regression models.
 
 ## Overview
 This project focuses on predicting sales based on historical sales data and associated features. The notebook performs **data cleaning, exploratory data analysis (EDA)** to identify key sales drivers and applies **machine learning regression models** to build a predictive system.
