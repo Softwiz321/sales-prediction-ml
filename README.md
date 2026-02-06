@@ -86,3 +86,5 @@ Trained and evaluated regression models such as:
 - Linear Regression provided a strong baseline model
 - ML models captured relationships between advertising spend and sales
 - Visualization helped interpret prediction accuracy and errors
+
+https://github.com/user-attachments/assets/fc11cfa7-e4f6-42a0-9c6c-7f8b47ba4fea
